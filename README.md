@@ -71,5 +71,12 @@ To understand the fundamentals of image classification and explore how pretraine
 Full Stack Developer | Python | AI & Data Analytics
 
 ---
+## 🌐 Live Demo
+
+🚀 **Try the AI Image Classifier here:**
+
+[Open AI Image Classifier](https://f4150376aa946d6f95.gradio.live/)
+
+> Note: This is a temporary Gradio demo link. Availability depends on the active runtime.
 
 ⭐ If you find this project useful, consider giving it a star!
